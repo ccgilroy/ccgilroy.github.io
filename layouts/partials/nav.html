@@ -1,0 +1,51 @@
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="{{ .Site.BaseURL }}"><h1 class="title is-4">{{ .Site.Title }}</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          {{- range $platform, $username := .Site.Params.social -}}
+          {{- if $username -}}
+            <a class="level-item" aria-label="{{ $platform }}" href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class>
+                {{- partial "svg/icons" $platform -}}
+              </i>
+            </span>
+          </a>
+          {{- end -}}
+          {{- end -}}
+        </nav>
+      </div>
+    </nav>
+
+    <nav class="nav">
+      <ul class="nav-left menu">
+        {{- range .Site.Menus.sections_left -}}
+          {{- if .Name -}}
+          <li class="nav-item">
+            <a href="{{.URL}}">
+              <h2 class="title is-5">{{.Name}}</h2>
+            </a>
+          </li>
+          {{- end -}}
+        {{- end -}}
+      </ul>
+
+      {{ if (isset .Site.Params "sections_right" ) }}
+        <div class="nav-right">
+          {{- range $section, $printable := .Site.Params.sections_right -}}
+            {{- if $printable -}}
+              <a class="nav-item" href="{{$section}}">
+                <h2 class="title is-5">{{$printable}}</h2>
+              </a>
+            {{- end -}}
+          {{- end -}}
+        </div>
+      {{ end }}
+    </nav>
+    
+  </div>
+</section>

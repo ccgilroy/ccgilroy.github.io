@@ -1,0 +1,41 @@
+/* style my avatar */
+img[alt=me] { 
+  /*width: 200px;*/
+  /* width: 50%;*/
+  border-radius: 100%; 
+  /*float: left;*/
+}
+
+/* fix padding issues caused by blogdown's use of the section class */
+.content .section {
+  padding: 0 0;
+  margin-top: 80px;
+}
+
+/* change headers to a solarized color */
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+    /*color: #6c71c4; */
+    color: #d33682;
+}
+.content h1 code,
+.content h2 code,
+.content h3 code,
+.content h4 code,
+.content h5 code,
+.content h6 code {
+  background-color: transparent;
+}
+/*
+.content a:link {
+    color: #d33682;
+}
+
+.content a:visited {
+    color: #dc322f;
+}
+*/
