@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en"
 title = "Connor Gilroy"
 theme = "kiss"
-copyright = "&copy; Connor Gilroy 2018"
+copyright = "&copy; <a href=\"mailto:cgilroy@uw.edu\">Connor Gilroy</a> 2018"
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
@@ -76,10 +76,10 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
   url = "/cv/"
   weight = 5
   
-[[menu.sections_left]]
-  name = "Blog"
-  url = "/post/"
-  weight = 6
+# [[menu.sections_left]]
+#  name = "Blog"
+#  url = "/post/"
+#  weight = 6
     
 [params.social]
 
@@ -90,6 +90,10 @@ linkedin = ""
 facebook = ""
 instagram = ""
 codepen = ""
+
+[params.social.config]
+# platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+platforms = ["email", "twitter", "github"]
 
 [params.matomoAnalytics]
 # siteID = 1

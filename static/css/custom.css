@@ -1,8 +1,8 @@
 /* style my avatar */
-img[alt=me] { 
+img[alt=me] {
   /*width: 200px;*/
   /* width: 50%;*/
-  border-radius: 100%; 
+  border-radius: 100%;
   /*float: left;*/
 }
 
@@ -19,8 +19,8 @@ img[alt=me] {
 .content h4,
 .content h5,
 .content h6 {
-    /*color: #6c71c4; */
-    color: #d33682;
+  /*color: #6c71c4; */
+  color: #d33682;
 }
 .content h1 code,
 .content h2 code,
@@ -30,12 +30,16 @@ img[alt=me] {
 .content h6 code {
   background-color: transparent;
 }
-/*
-.content a:link {
-    color: #d33682;
-}
 
+
+/*
+a:link {
+  color: #6c71c4;
+}
+*/
+
+/*
 .content a:visited {
-    color: #dc322f;
+  color: #dc322f;
 }
 */
