@@ -92,7 +92,6 @@ instagram = ""
 codepen = ""
 
 [params.social.config]
-# platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
 platforms = ["email", "twitter", "github"]
 
 [params.matomoAnalytics]

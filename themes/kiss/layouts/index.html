@@ -1,6 +1,5 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
-
 <section class="section">
   <div class="container">
     {{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
@@ -18,9 +17,6 @@
         {{ if .Truncated }}
         <a class="button is-link" href="{{ .Permalink }}" style="height:28px">
           Read more
-          <span class="icon is-small">
-            <i class="fa fa-angle-double-right"></i>
-          </span>
         </a>
         {{ end }}
       </div>
