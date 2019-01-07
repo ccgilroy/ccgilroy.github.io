@@ -1,15 +1,22 @@
 /* style my avatar */
 img[alt=me] {
-  /*width: 200px;*/
-  /* width: 50%;*/
   border-radius: 100%;
-  /*float: left;*/
+  width: calc(820px / 3 - 20px); /* this is the desktop width */
+  /* max-width for img is 100% */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* fix padding issues caused by blogdown's use of the section class */
 .content .section {
   padding: 0 0;
   margin-top: 80px;
+}
+
+/* reduce default bottom padding */
+.section {
+  padding: 40px 20px 20px 20px;
 }
 
 /* change headers to a solarized color */
@@ -21,6 +28,7 @@ img[alt=me] {
 .content h6 {
   /*color: #6c71c4; */
   color: #d33682;
+  /*color: #4b2e83; */ /* UW purple */
 }
 .content h1 code,
 .content h2 code,
