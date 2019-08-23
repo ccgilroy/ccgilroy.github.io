@@ -9,7 +9,7 @@ I've helped to develop and teach a new course in Data and Society for UW Sociolo
 
 Data and Society equips students to understand the consequences of the digital data revolution for their everyday lives and for society, in terms of bias, surveillance, inequality, and various forms of social, political and economic change. It also makes "data" tangible and meaningful through an interactive lab on exploratory data analysis and visualization with R, using digital data sources (such as Airbnb listings, Twitter accounts, and Facebook ads) as much as possible. I've taught this course both as the instructor of record and as a teaching assistant / lab instructor. 
 
-[Download a sample syllabus here.](soc225_syllabus_summer2018.pdf)
+[Download a sample syllabus here.](soc225_syllabus_summer2019.pdf)
 
 # Computational social science
 
