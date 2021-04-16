@@ -15,7 +15,7 @@ Data and Society equips students to understand the consequences of the digital d
 
 I've taught and organized workshops and full courses in computational social science. 
 
-With Emilio Zagheni, I facilitated the IUSSP workshop on Social Media and Demographic Research at IPC 2017 ([materials on GitHub](Social Media and Demographic Research)). In 2018, I organized the Seattle partner location for the Summer Institute in Computational Social Science ([SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/)). I have been a teaching assistant for two advanced courses, Data Science and Population Processes and [Bayesian Statistics for the Social Sciences](https://uw-csss-564.github.io/2018/). 
+With Emilio Zagheni, I facilitated the IUSSP workshop on Social Media and Demographic Research at IPC 2017 ([materials on GitHub](Social Media and Demographic Research)). In 2018, I organized the Seattle partner location for the Summer Institute in Computational Social Science ([SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/)). I have been a teaching assistant for two advanced courses, Data Science and Population Processes and Bayesian Statistics for the Social Sciences ([2018 course website](https://uw-csss-564.github.io/2018/), [2019 lab materials](https://ccgilroy.github.io/csss564-labs-2019/)). 
 
 # Other courses
 

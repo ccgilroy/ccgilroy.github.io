@@ -1,4 +1,4 @@
-baseurl = "/cgilroy/"
+baseurl = "https://students.washington.edu/cgilroy/"
 languageCode = "en"
 title = "Connor Gilroy"
 theme = "kiss"
