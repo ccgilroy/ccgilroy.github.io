@@ -1,12 +1,10 @@
 ---
 ---
 
-<!--![me](/img/ccg.png#c) -->
+I'm a PhD student in sociology at the University of Washington in Seattle. I use digital and computational methods to study experiences of community, visibility, and belonging, with a substantive focus on queer communities and LGBTQ populations. I have also interned as a quantitative UX researcher and consulted on survey data analysis. 
 
-<!-- # Connor Gilroy,<br> queer computational sociologist -->
+[My recent projects](/research/) examine demographic and economic changes in gay neighborhoods, the disclosure of sexualities on social media, and the discursive meaning and uses of "community." In other work, I have modeled the impact of coming out on public opinion and used machine learning combined with human knowledge to attempt to predict life outcomes from survey data.
 
-I'm a PhD student in sociology at the University of Washington. I use digital and computational methods to study queer communities. By studying LGBTQ people and their interactions in society, I aim to understand processes of belonging, visibility, and social change.
-
-[My projects](/research/) examine change in gay neighborhoods, disclosure of sexualities on social media, impacts of coming out on public opinion, and integration of qualitative and quantitative sources of knowledge. 
+I also strive to create open and accessible [teaching materials](/teaching/), especially for computational social science methods and tools. If you find them useful, let me know!
 
 My name is pronounced [/ˈkɒnər ˈgɪlrɔɪ/](https://en.wikipedia.org/wiki/Help:IPA/English). I generally use [he/him](https://pronoun.is/he) pronouns. 
