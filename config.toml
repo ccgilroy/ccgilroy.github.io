@@ -26,7 +26,7 @@ enableSocial = false # Adds OpenGraph and Twitter cards
 homeTitle = "Connor Gilroy" # Title for home page
 poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 related = true # Includes related articles
-terms = "" # "<a href=\"http://www.washington.edu/online/privacy\">Privacy</a> | <a href=\"http://www.washington.edu/online/terms\">Terms</a>"
+# terms = "<a href=\"http://www.washington.edu/online/privacy\">Privacy</a> | <a href=\"http://www.washington.edu/online/terms\">Terms</a>"
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
