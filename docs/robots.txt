@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ccgilroy.com/sitemap.xml

@@ -1,4 +1,4 @@
-baseurl = "https://students.washington.edu/cgilroy/"
+baseurl = "https://ccgilroy.com"
 languageCode = "en"
 title = "Connor Gilroy"
 theme = "kiss"
@@ -9,6 +9,7 @@ googleAnalytics = ""
 Paginate = 5
 enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 [params.assets]
 customCSS = ["css/custom.css"]
@@ -25,7 +26,7 @@ enableSocial = false # Adds OpenGraph and Twitter cards
 homeTitle = "Connor Gilroy" # Title for home page
 poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 related = true # Includes related articles
-terms = "<a href=\"http://www.washington.edu/online/privacy\">Privacy</a> | <a href=\"http://www.washington.edu/online/terms\">Terms</a>"
+terms = "" # "<a href=\"http://www.washington.edu/online/privacy\">Privacy</a> | <a href=\"http://www.washington.edu/online/terms\">Terms</a>"
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
