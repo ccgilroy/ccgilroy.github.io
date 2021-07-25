@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connor Gilroy</title>
-    <link>https://ccgilroy.com/</link>
+    <link>https://ccgilroy.github.io/</link>
     <description>Recent content on Connor Gilroy</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>cgilroy@uw.edu</contact>
     <copyright>&copy; <a href="mailto:cgilroy@uw.edu">Connor Gilroy</a> 2021</copyright>
     
-        <atom:link href="https://ccgilroy.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ccgilroy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ccgilroy.com/cv/</link>
+      <link>https://ccgilroy.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.com/cv/</guid>
+      <guid>https://ccgilroy.github.io/cv/</guid>
       <description></description>
       
       <content>&lt;p&gt;Download my CV here [INSERT LINK TO PDF]&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Research</title>
-      <link>https://ccgilroy.com/research/</link>
+      <link>https://ccgilroy.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.com/research/</guid>
+      <guid>https://ccgilroy.github.io/research/</guid>
       <description></description>
       
       <content>&lt;h1 id=&#34;change-in-gay-neighborhoods&#34;&gt;Change in gay neighborhoods&lt;/h1&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Teaching</title>
-      <link>https://ccgilroy.com/teaching/</link>
+      <link>https://ccgilroy.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.com/teaching/</guid>
+      <guid>https://ccgilroy.github.io/teaching/</guid>
       <description></description>
       
       <content>&lt;h1 id=&#34;computational-social-science&#34;&gt;Computational social science&lt;/h1&gt;
