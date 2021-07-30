@@ -1,22 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connor Gilroy</title>
-    <link>https://ccgilroy.github.io/</link>
+    <link>https://ccgilroy.com/</link>
     <description>Recent content on Connor Gilroy</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>cgilroy@uw.edu</contact>
     <copyright>&copy; <a href="mailto:cgilroy@uw.edu">Connor Gilroy</a> 2021</copyright>
     
-        <atom:link href="https://ccgilroy.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ccgilroy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ccgilroy.github.io/cv/</link>
+      <link>https://ccgilroy.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.github.io/cv/</guid>
+      <guid>https://ccgilroy.com/cv/</guid>
       <description></description>
       
       <content>&lt;p&gt;Download my CV here [INSERT LINK TO PDF]&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Research</title>
-      <link>https://ccgilroy.github.io/research/</link>
+      <link>https://ccgilroy.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.github.io/research/</guid>
+      <guid>https://ccgilroy.com/research/</guid>
       <description></description>
       
       <content>&lt;h1 id=&#34;change-in-gay-neighborhoods&#34;&gt;Change in gay neighborhoods&lt;/h1&gt;
@@ -38,23 +38,30 @@
 &lt;p&gt;&lt;a href=&#34;https://digital.lib.washington.edu/researchworks/handle/1773/42543&#34;&gt;Open-access full text of MA thesis&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;digital-traces-of-sexualities&#34;&gt;Digital traces of sexualities&lt;/h1&gt;
 &lt;p&gt;When do people disclose their sexualities on social media? What can that tell us about sexual identity online?&lt;/p&gt;
-&lt;p&gt;In collaboration with Ridhi Kashyap, I use aggregate estimates from Facebook&#39;s advertising platform to investigate the disclosure of sexuality on social media in the United States. We leverage variation by relationship status, age, and gender to see which factors are associated with the disclosure of LGB or straight sexual orientations. We interpret these variations in sexuality disclosure on social media to reflect sexual availability or sexual identity.&lt;/p&gt;
+&lt;p&gt;In collaboration with Ridhi Kashyap, I use aggregate estimates from Facebook&#39;s advertising platform to investigate the disclosure of sexuality on social media in the United States. We leverage variation by relationship status, age, and gender to see which factors are associated with the disclosure of LGB or straight sexual orientations. We interpret these variations in sexuality disclosure on social media to primarily reflect sexual identity, intersected in some cases with sexual availability.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Gilroy, Connor&lt;/strong&gt; and Ridhi Kashyap. 2021. &amp;ldquo;Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media.&amp;rdquo; &lt;em&gt;Socius&lt;/em&gt; 7: 1&amp;ndash;18. &lt;a href=&#34;https://doi.org/10.1177/23780231211029499&#34;&gt;doi: 10.1177/23780231211029499&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;disentangling-the-meaning-of-community&#34;&gt;Disentangling the meaning of &amp;ldquo;community&amp;rdquo;&lt;/h1&gt;
 &lt;p&gt;What is community? Can we measure experiences of community from text?&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Community&amp;rdquo; is an ambiguous concept with both sociological and everyday uses. Using a computational approach to text analysis, I offer an empirical understanding of how &amp;ldquo;community&amp;rdquo; is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ccgilroy.github.io/community-discourse/&#34;&gt;In-progress prototype&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;other-projects&#34;&gt;Other projects&lt;/h1&gt;
 &lt;p&gt;I have also used agent-based modeling to simulate the impact of coming out on public opinion and used regularized regression models that incorporated scores based on surveys of variable importance for prediction in the Fragile Families Challenge.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Salganik, Matthew J., Ian Lundberg, Alexander T. Kindel, [and 109 others, including &lt;strong&gt;Connor Gilroy&lt;/strong&gt;]. 2020. &amp;ldquo;Measuring the Predictability of Life Outcomes with a Scientific Mass Collaboration.&amp;rdquo; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 117(15):8398–8403. &lt;a href=&#34;https://doi.org/10.1073/pnas.1915006117&#34;&gt;doi: 10.1073/pnas.1915006117&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Filippova, Anna, &lt;strong&gt;Connor Gilroy&lt;/strong&gt;, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. 2019. &amp;ldquo;Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data.&amp;rdquo; &lt;em&gt;Socius&lt;/em&gt; 5: 1&amp;ndash;15. &lt;a href=&#34;https://doi.org/10.1177/2378023118820157&#34;&gt;doi: 10.1177/2378023118820157&lt;/a&gt;. (corresponding author)&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
       
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://ccgilroy.github.io/teaching/</link>
+      <link>https://ccgilroy.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Connor Gilroy</author>
-      <guid>https://ccgilroy.github.io/teaching/</guid>
+      <guid>https://ccgilroy.com/teaching/</guid>
       <description></description>
       
       <content>&lt;h1 id=&#34;computational-social-science&#34;&gt;Computational social science&lt;/h1&gt;

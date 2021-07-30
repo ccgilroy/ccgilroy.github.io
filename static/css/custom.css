@@ -39,6 +39,14 @@ img[alt=me] {
   background-color: transparent;
 }
 
+#publications {
+ font-size: 14px;
+} 
+
+#publications-section {
+  margin-top: 20px;
+  font-size: 55%;
+}
 
 /*
 a:link {
@@ -51,3 +59,4 @@ a:link {
   color: #dc322f;
 }
 */
+
