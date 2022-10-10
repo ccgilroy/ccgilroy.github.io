@@ -6,7 +6,7 @@
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>cgilroy@uw.edu</contact>
-    <copyright>&copy; <a href="mailto:cgilroy@uw.edu">Connor Gilroy</a> 2021</copyright>
+    <copyright>&copy; <a href="mailto:cgilroy@uw.edu">Connor Gilroy</a> 2022</copyright>
     
         <atom:link href="https://ccgilroy.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,20 +32,20 @@
       <guid>https://ccgilroy.com/research/</guid>
       <description></description>
       
-      <content>&lt;h1 id=&#34;change-in-gay-neighborhoods&#34;&gt;Change in gay neighborhoods&lt;/h1&gt;
-&lt;p&gt;How do gayborhoods change in a time of rising social acceptance?&lt;/p&gt;
-&lt;p&gt;Gay neighborhoods are meaningful spaces for LGBTQ people, who worry that these spaces are assimilating and gentrifying as LGBTQ people integrate into US society. I show that evidence for widespread gayborhood change is actually quite limited. I webscrape a set of digital gay bar listings to identify gay neighborhoods across over 20 cities, then examine change in these places across several demographic and economic indicators using the American Community Survey.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://digital.lib.washington.edu/researchworks/handle/1773/42543&#34;&gt;Open-access full text of MA thesis&lt;/a&gt;&lt;/p&gt;
+      <content>&lt;h1 id=&#34;expressions-and-experiences-of-community&#34;&gt;Expressions and experiences of community&lt;/h1&gt;
+&lt;p&gt;What is community? Can we measure experiences of community from text?&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Community&amp;rdquo; is an ambiguous concept with both sociological and everyday uses. Using a computational approach to text analysis, I offer an empirical understanding of how &amp;ldquo;community&amp;rdquo; is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ccgilroy.github.io/community-discourse/&#34;&gt;In-progress prototype&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;digital-traces-of-sexualities&#34;&gt;Digital traces of sexualities&lt;/h1&gt;
 &lt;p&gt;When do people disclose their sexualities on social media? What can that tell us about sexual identity online?&lt;/p&gt;
 &lt;p&gt;In collaboration with Ridhi Kashyap, I use aggregate estimates from Facebook&#39;s advertising platform to investigate the disclosure of sexuality on social media in the United States. We leverage variation by relationship status, age, and gender to see which factors are associated with the disclosure of LGB or straight sexual orientations. We interpret these variations in sexuality disclosure on social media to primarily reflect sexual identity, intersected in some cases with sexual availability.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Gilroy, Connor&lt;/strong&gt; and Ridhi Kashyap. 2021. &amp;ldquo;Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media.&amp;rdquo; &lt;em&gt;Socius&lt;/em&gt; 7: 1&amp;ndash;18. &lt;a href=&#34;https://doi.org/10.1177/23780231211029499&#34;&gt;doi: 10.1177/23780231211029499&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h1 id=&#34;disentangling-the-meaning-of-community&#34;&gt;Disentangling the meaning of &amp;ldquo;community&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;What is community? Can we measure experiences of community from text?&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Community&amp;rdquo; is an ambiguous concept with both sociological and everyday uses. Using a computational approach to text analysis, I offer an empirical understanding of how &amp;ldquo;community&amp;rdquo; is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ccgilroy.github.io/community-discourse/&#34;&gt;In-progress prototype&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;change-in-gay-neighborhoods&#34;&gt;Change in gay neighborhoods&lt;/h1&gt;
+&lt;p&gt;How do gayborhoods change in a time of rising social acceptance?&lt;/p&gt;
+&lt;p&gt;Gay neighborhoods are meaningful spaces for LGBTQ people, who worry that these spaces are assimilating and gentrifying as LGBTQ people integrate into US society. I show that evidence for widespread gayborhood change is actually quite limited. I webscrape a set of digital gay bar listings to identify gay neighborhoods across over 20 cities, then examine change in these places across several demographic and economic indicators using the American Community Survey.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://digital.lib.washington.edu/researchworks/handle/1773/42543&#34;&gt;Open-access full text of MA thesis&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;other-projects&#34;&gt;Other projects&lt;/h1&gt;
 &lt;p&gt;I have also used agent-based modeling to simulate the impact of coming out on public opinion and used regularized regression models that incorporated scores based on surveys of variable importance for prediction in the Fragile Families Challenge.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -67,6 +67,7 @@
       <content>&lt;h1 id=&#34;computational-social-science&#34;&gt;Computational social science&lt;/h1&gt;
 &lt;p&gt;I&#39;ve taught and organized workshops and full courses in computational social science, including:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Comparing Word Embedding Models, 2021 | &lt;a href=&#34;https://colab.research.google.com/drive/16cM5NXedlrvU2mp-HcYKs9OIMkYItTS1?usp=sharing&#34;&gt;materials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Workshop on Word Embeddings for the Social Sciences, 2021 | &lt;a href=&#34;https://ccgilroy.github.io/word-embeddings-workshop/&#34;&gt;materials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Introduction to tidycensus, 2020 | &lt;a href=&#34;https://csde-uw.github.io/tidycensus-tutorial/&#34;&gt;materials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Bayesian Statistics for the Social Sciences, 2019 (TA) | &lt;a href=&#34;https://ccgilroy.github.io/csss564-labs-2019/&#34;&gt;lab materials&lt;/a&gt;&lt;/li&gt;
@@ -79,7 +80,7 @@
 &lt;p&gt;&lt;a href=&#34;soc225_syllabus_summer2019.pdf&#34;&gt;Download a sample syllabus&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://github.com/uw-soc-225/uw-soc-225&#34;&gt;View lab materials on GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;other-courses&#34;&gt;Other courses&lt;/h1&gt;
-&lt;p&gt;I have also been a teaching assistant for foundational courses such as Sociological Theory and substantive courses such as Intimate Relationships.&lt;/p&gt;
+&lt;p&gt;I have also been a teaching assistant for foundational courses such as Sociological Theory and Social Statistics, as well as substantive courses such as Intimate Relationships.&lt;/p&gt;
 </content>
       
     </item>

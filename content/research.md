@@ -3,13 +3,13 @@ title: "Research"
 hidden: true
 ---
 
-# Change in gay neighborhoods
+# Expressions and experiences of community
 
-How do gayborhoods change in a time of rising social acceptance?
+What is community? Can we measure experiences of community from text?
 
-Gay neighborhoods are meaningful spaces for LGBTQ people, who worry that these spaces are assimilating and gentrifying as LGBTQ people integrate into US society. I show that evidence for widespread gayborhood change is actually quite limited. I webscrape a set of digital gay bar listings to identify gay neighborhoods across over 20 cities, then examine change in these places across several demographic and economic indicators using the American Community Survey.
+"Community" is an ambiguous concept with both sociological and everyday uses. Using a computational approach to text analysis, I offer an empirical understanding of how "community" is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word.
 
-[Open-access full text of MA thesis](https://digital.lib.washington.edu/researchworks/handle/1773/42543)
+[In-progress prototype](https://ccgilroy.github.io/community-discourse/)
 
 # Digital traces of sexualities
 
@@ -19,13 +19,13 @@ In collaboration with Ridhi Kashyap, I use aggregate estimates from Facebook's a
 
 > **Gilroy, Connor** and Ridhi Kashyap. 2021. "Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media." *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
 
-# Disentangling the meaning of "community"
+# Change in gay neighborhoods
 
-What is community? Can we measure experiences of community from text?
+How do gayborhoods change in a time of rising social acceptance?
 
-"Community" is an ambiguous concept with both sociological and everyday uses. Using a computational approach to text analysis, I offer an empirical understanding of how "community" is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word.
+Gay neighborhoods are meaningful spaces for LGBTQ people, who worry that these spaces are assimilating and gentrifying as LGBTQ people integrate into US society. I show that evidence for widespread gayborhood change is actually quite limited. I webscrape a set of digital gay bar listings to identify gay neighborhoods across over 20 cities, then examine change in these places across several demographic and economic indicators using the American Community Survey.
 
-[In-progress prototype](https://ccgilroy.github.io/community-discourse/)
+[Open-access full text of MA thesis](https://digital.lib.washington.edu/researchworks/handle/1773/42543)
 
 # Other projects
 

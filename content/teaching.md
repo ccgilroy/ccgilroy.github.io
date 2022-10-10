@@ -7,6 +7,7 @@ hidden: true
 
 I've taught and organized workshops and full courses in computational social science, including: 
 
+- Comparing Word Embedding Models, 2021 | [materials](https://colab.research.google.com/drive/16cM5NXedlrvU2mp-HcYKs9OIMkYItTS1?usp=sharing)
 - Workshop on Word Embeddings for the Social Sciences, 2021 | [materials](https://ccgilroy.github.io/word-embeddings-workshop/)
 - Introduction to tidycensus, 2020 | [materials](https://csde-uw.github.io/tidycensus-tutorial/)
 - Bayesian Statistics for the Social Sciences, 2019 (TA) | [lab materials](https://ccgilroy.github.io/csss564-labs-2019/)
@@ -24,4 +25,4 @@ Data and Society equips students to understand the consequences of the digital d
 
 # Other courses
 
-I have also been a teaching assistant for foundational courses such as Sociological Theory and substantive courses such as Intimate Relationships.
+I have also been a teaching assistant for foundational courses such as Sociological Theory and Social Statistics, as well as substantive courses such as Intimate Relationships.

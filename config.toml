@@ -2,7 +2,7 @@ baseurl = "https://ccgilroy.com/"
 languageCode = "en"
 title = "Connor Gilroy"
 theme = "kiss"
-copyright = "&copy; <a href=\"mailto:cgilroy@uw.edu\">Connor Gilroy</a> 2021"
+copyright = "&copy; <a href=\"mailto:cgilroy@uw.edu\">Connor Gilroy</a> 2022"
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
@@ -74,9 +74,14 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
   weight = 4
 
 [[menu.sections_left]]
+  name = "Resume" 
+  url = "/gilroy_resume.pdf"
+  weight = 5
+
+[[menu.sections_left]]
   name = "CV" 
   url = "/gilroy_cv.pdf"
-  weight = 5
+  weight = 6
   
 # [[menu.sections_left]]
 #  name = "Blog"
@@ -88,13 +93,13 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 twitter = "ccgilroy"
 github = "ccgilroy"
 email = "cgilroy@uw.edu"
-linkedin = ""
+linkedin = "ccgilroy"
 facebook = ""
 instagram = ""
 codepen = ""
 
 [params.social.config]
-platforms = ["email", "twitter", "github"]
+platforms = ["email", "twitter", "github", "linkedin"]
 
 [params.matomoAnalytics]
 # siteID = 1
