@@ -108,5 +108,10 @@ platforms = ["email", "twitter", "github", "linkedin"]
 [taxonomies]
 tag ="tags"
 
-[blackfriday]
-hrefTargetBlank = true
+# [blackfriday]
+# hrefTargetBlank = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

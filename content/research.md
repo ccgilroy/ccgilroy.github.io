@@ -5,21 +5,15 @@ hidden: true
 
 # Expressions and experiences of community
 
-My dissertation consists of three interlinked projects about _expressions and experiences of community_ for LGBTQ people. I use computational text analysis and conventional quantitative methods in order to offer a complementary approach to the deeply grounded ethnographic and interview-based research that already exists for queer communities. The cases I've chosen span both digital and location-based communities, allowing me to generalize across contexts.
-
-[Prospectus defense presentation](https://docs.google.com/presentation/d/15UUVJH43WEednH0CeGwg_P6NB6HegMXL6k9ov7NlmSI/edit?usp=sharing)
+My dissertation consists of three interlinked projects about _expressions and experiences of community_ for LGBTQ people. I use computational text analysis and conventional quantitative methods in order to offer a complementary approach to the deeply grounded ethnographic and interview-based research that already exists for queer communities. The cases I've chosen span both digital and location-based communities, allowing me to generalize across contexts. ([Prospectus defense presentation](https://docs.google.com/presentation/d/15UUVJH43WEednH0CeGwg_P6NB6HegMXL6k9ov7NlmSI/edit?usp=sharing))
 
 First, what does "community" mean, as revealed (or constructed) through the ways everyday people use the word? To what extent does it resonate with the sociological concept of _Gemeinschaft_? 
 
-Using a computational approach to text analysis, I offer an empirical understanding of how “community” is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word. I'll apply this generic embeddings model to LGBTQ-related corpora to see how those specific meanings might diverge or align with more general usage.
-
-[Prototype of methods for analyzing community discourse](https://ccgilroy.github.io/community-discourse/)
+Using a computational approach to text analysis, I offer an empirical understanding of how “community” is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word. I'll apply this generic embeddings model to LGBTQ-related corpora to see how those specific meanings might diverge or align with more general usage. ([Prototype of methods for analyzing community discourse](https://ccgilroy.github.io/community-discourse/))
 
 Second, how does place matter for individual sense of community? Are measurable features like density and abundance of people with a shared identity enough to explain differences between places?
 
-I use survey measures of both generic and identity-specific belonging from the _Generations_ study to show how sense of community varies for LGBQ people according to the characteristics of where they live. Beyond demographic differences, I'll aim to investigate how residual variation between places might be attributable to variations in place-based cultures.
-
-[ASA 2022 presentation](https://docs.google.com/presentation/d/1kwgveT6jTLKiYw4Oqq7gQV4D85Dcd34grjLeUl0oZaw/edit?usp=sharing)
+I use survey measures of both generic and identity-specific belonging from the _Generations_ study to show how sense of community varies for LGBQ people according to the characteristics of where they live. Beyond demographic differences, I'll aim to investigate how residual variation between places might be attributable to variations in place-based cultures. ([ASA 2022 presentation](https://docs.google.com/presentation/d/1kwgveT6jTLKiYw4Oqq7gQV4D85Dcd34grjLeUl0oZaw/edit?usp=sharing))
 
 For my third empirical chapter, I'll investigate the social structure around community-oriented talk by comparing a set of virtual communities.
 
