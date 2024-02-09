@@ -3,19 +3,19 @@ title: "Research"
 hidden: true
 ---
 
-# Expressions and experiences of community
+# Expressions of community
 
-My dissertation consists of three interlinked projects about _expressions and experiences of community_ for LGBTQ people. I use computational text analysis and conventional quantitative methods in order to offer a complementary approach to the deeply grounded ethnographic and interview-based research that already exists for queer communities. The cases I've chosen span both digital and location-based communities, allowing me to generalize across contexts. ([Prospectus defense presentation](https://docs.google.com/presentation/d/15UUVJH43WEednH0CeGwg_P6NB6HegMXL6k9ov7NlmSI/edit?usp=sharing))
+Structural features -- social density of interactions, physical density of proximity, abundance of others with shared group characteristics -- create the conditions for the existence of a community. How individuals outwardly express and subjectively experience community relates to those structural features. This dissertation investigates and compares two hypotheses about that relationship. First, structural and contextual characteristics could be co-constitutive with expressive and subjective ones, a mutually reinforcing feedback loop. Alternatively, expressions of community might substitute or stand in for the structural elements that promote togetherness and belonging. The tension between these possibilities is especially relevant for members of marginalized and minoritized identity categories, like LGBTQ identities, who cannot take acceptance and belonging for granted. 
 
-First, what does "community" mean, as revealed (or constructed) through the ways everyday people use the word? To what extent does it resonate with the sociological concept of _Gemeinschaft_? 
+To investigate this theoretical tension, I triangulate across three quantitative and computational case studies of LGBTQ communities:
 
-Using a computational approach to text analysis, I offer an empirical understanding of how “community” is used in popular English-language discourse. Through algebraic transformations of word embeddings, I disentangle spatial and sociological connotations of the word. I'll apply this generic embeddings model to LGBTQ-related corpora to see how those specific meanings might diverge or align with more general usage. ([Prototype of methods for analyzing community discourse](https://ccgilroy.github.io/community-discourse/))
+- In [the first empirical chapter](https://ccgilroy.com/dissertation/discourse.html), I use text from an early LGBTQ virtual community to examine whether, when LGBTQ people talk about community, what they mean invokes a belonging- and social organization-oriented sense of the concept to a greater extent than in more general contexts. I show that discourse in the soc.motss Usenet group uses "community" in the sense of *Gemeinschaft* to at least an equal extent as generic English-language text. 
+- In [the second chapter](https://ccgilroy.com/dissertation/place.html), I ask whether dense places full of LGBTQ people facilitate a greater sense of connection to the LGBTQ community, or whether community becomes ambient in those contexts. I find that small-area abundance of same-sex couples, and to a lesser extent overall density, is associated with greater sense of community connectedness for LGBQ people. 
+- In [the third chapter](https://ccgilroy.com/dissertation/networks.html), I look at whether, in virtual communities organized around LGBTQ identities, core or peripheral members engage in more talk about community. I show significant heterogeneity in the relationship between interaction network centrality and expressions of community talk in a set of 11 LGBTQ groups on Reddit, a contemporary virtual platform.
 
-Second, how does place matter for individual sense of community? Are measurable features like density and abundance of people with a shared identity enough to explain differences between places?
+Overall, this work connects contextual features to how LGBTQ individuals outwardly express and subjectively experience community, through their language, group participation, and self-reports of belonging. Across the work, I find that experiences of community are most intense and expressions of community most frequent, not for peripheral members of LGBTQ communities but for the most central. Something beyond stigma animates the attractive force of community for LGBTQ people.
 
-I use survey measures of both generic and identity-specific belonging from the _Generations_ study to show how sense of community varies for LGBQ people according to the characteristics of where they live. Beyond demographic differences, I'll aim to investigate how residual variation between places might be attributable to variations in place-based cultures. ([ASA 2022 presentation](https://docs.google.com/presentation/d/1kwgveT6jTLKiYw4Oqq7gQV4D85Dcd34grjLeUl0oZaw/edit?usp=sharing))
-
-For my third empirical chapter, I'll investigate the social structure around community-oriented talk by comparing a set of virtual communities.
+[HTML version](https://ccgilroy.com/dissertation/) / [PDF version](https://digital.lib.washington.edu/researchworks/handle/1773/50562)
 
 # Digital traces of sexualities
 

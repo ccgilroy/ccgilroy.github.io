@@ -1,10 +1,10 @@
 ---
 ---
 
-I'm a PhD candidate in sociology at the University of Washington in Seattle. I use digital and computational methods to study experiences of community, visibility, and belonging, with a substantive focus on queer communities and LGBTQ populations. I have interned as a data scientist and quantitative UX researcher, and also consulted on survey data analysis. 
+I'm a machine learning data scientist at [Blue Rose Research](https://blueroseresearch.org/about/), where I work on political forecasting. I have a PhD in sociology from the University of Washington, and I currently live in Seattle.
 
-My recent [research projects](/research/) examine expressions and experiences of community, the disclosure of sexual identities on social media, and demographic and economic changes in gay neighborhoods. In other work, I have modeled the impact of coming out on public opinion and used machine learning combined with human knowledge to attempt to predict life outcomes from survey data. I also strive to create open and accessible [teaching materials](/teaching/), especially for computational social science methods and tools.
+My [academic research](/research/) has used digital and computational methods to study community, identity, social change, with a substantive focus on queer communities and LGBTQ populations. I've examined the construction of meanings of "community" in digital spaces through word embeddings, trajectories of demographic and socioeconomic change in gayborhoods, and the disclosure of sexual identities on social media. I've striven to create open and accessible [teaching materials](/teaching/), especially for computational social science methods and tools.
 
-I plan to graduate in 2023, and I'm interested in positions in data science and quantitative social science. To learn more about my work, you can view my [short resume](/gilroy_resume.pdf) or my [full CV](/gilroy_cv.pdf).
+Previously, I've interned as a data scientist and quantitative UX researcher at Meta, and consulted on survey data analysis for the World Bank.
 
-My name is pronounced [/ˈkɒnər ˈgɪlrɔɪ/](https://en.wikipedia.org/wiki/Help:IPA/English). I generally use [he/him](https://pronoun.is/he) pronouns. 
+My name is pronounced [/ˈkɒnər ˈgɪlrɔɪ/](https://en.wikipedia.org/wiki/Help:IPA/English). I generally use [he/him](https://pronoun.is/he) pronouns.
