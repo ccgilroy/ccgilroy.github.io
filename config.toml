@@ -2,7 +2,7 @@ baseurl = "https://ccgilroy.com/"
 languageCode = "en"
 title = "Connor Gilroy"
 theme = "kiss"
-copyright = "&copy; <a href=\"mailto:cgilroy@uw.edu\">Connor Gilroy</a> 2022"
+copyright = "&copy; <a href=\"mailto:ccgilroy@gmail.com\">Connor Gilroy</a> 2024"
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
@@ -18,7 +18,7 @@ customCSS = ["css/custom.css"]
 
 includeContent = true # Includes whole content in rss
 authorName = "Connor Gilroy" # Site author's full name
-authorEmail = "cgilroy@uw.edu"
+authorEmail = "ccgilroy@gmail.com"
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
@@ -46,7 +46,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
   "/about/" = "About"
   "/research/" = "Research"
   "/teaching/" = "Teaching"
-  "/cv/" = "CV"
+#  "/cv/" = "CV"
   
 # [params.sections_right]
 #  "/blog/" = "Blog"
@@ -78,10 +78,10 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
   url = "/gilroy_resume.pdf"
   weight = 5
 
-[[menu.sections_left]]
-  name = "CV" 
-  url = "/gilroy_cv.pdf"
-  weight = 6
+# [[menu.sections_left]]
+#  name = "CV" 
+#  url = "/gilroy_cv.pdf"
+#  weight = 6
   
 # [[menu.sections_left]]
 #  name = "Blog"
